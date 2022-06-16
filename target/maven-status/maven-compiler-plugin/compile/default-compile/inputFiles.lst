@@ -1,0 +1,17 @@
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\model\network\Pagination.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\controller\CrudController.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\repository\BoardInfoRepository.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\BoardProjectApplication.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\controller\page\PageController.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\model\network\Request\BoardInfoApiRequest.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\model\entity\BoardInfo.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\config\JpaConfig.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\controller\api\BoardInfoApiController.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\service\AdminMenuService.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\dto\BoardInfoDto.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\service\BoardInfoApiLogicService.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\service\BaseService.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\model\SearchParam.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\ifs\CrudInterface.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\model\network\Header.java
+C:\Users\이예진\IdeaProjects\demo\board_project\src\main\java\com\example\board_project\model\network\Response\BoardInfoApiResponse.java
